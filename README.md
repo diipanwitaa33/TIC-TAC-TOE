@@ -19,6 +19,8 @@ A simple Tic Tac Toe game where two players take turns marking spaces on a 3×3 
 3. The game announces the winner. 
 4. Click "Reset" to play again.
 
-![tic_tac_toe](https://github.com/user-attachments/assets/0d38f262-3bb0-43d8-888a-4cce5675d664)
+
+https://github.com/user-attachments/assets/801c426b-1ee6-402d-a523-2e1d58029a44
+
 
 
